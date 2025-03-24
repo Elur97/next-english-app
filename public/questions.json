@@ -1,0 +1,1006 @@
+[
+  {
+    "question": "argue",
+    "options": ["逃げる", "解決する", "議論する", "忘れる"],
+    "answer": "議論する"
+  },
+  {
+    "question": "ask",
+    "options": ["反論する", "逃げる", "尋ねる", "答える"],
+    "answer": "尋ねる"
+  },
+  {
+    "question": "assume",
+    "options": ["仮定する", "解決する", "証明する", "忘れる"],
+    "answer": "仮定する"
+  },
+  {
+    "question": "benefit",
+    "options": ["損失", "危険", "問題", "利益"],
+    "answer": "利益"
+  },
+  {
+    "question": "borrow",
+    "options": ["盗む", "貸す", "借りる", "返す"],
+    "answer": "借りる"
+  },
+  {
+    "question": "cancel",
+    "options": ["変更する", "承認する", "キャンセルする", "続ける"],
+    "answer": "キャンセルする"
+  },
+  {
+    "question": "consider",
+    "options": ["考慮する", "無視する", "決定する", "拒否する"],
+    "answer": "考慮する"
+  },
+  {
+    "question": "decide",
+    "options": ["決定する", "無視する", "議論する", "考慮する"],
+    "answer": "決定する"
+  },
+  {
+    "question": "disagree",
+    "options": ["同意する", "反対する", "確認する", "無視する"],
+    "answer": "反対する"
+  },
+  {
+    "question": "encourage",
+    "options": ["無視する", "拒否する", "妨げる", "励ます"],
+    "answer": "励ます"
+  },
+  {
+    "question": "explain",
+    "options": ["説明する", "拒否する", "無視する", "議論する"],
+    "answer": "説明する"
+  },
+  {
+    "question": "follow",
+    "options": ["無視する", "避ける", "従う", "拒否する"],
+    "answer": "従う"
+  },
+  {
+    "question": "forget",
+    "options": ["思い出す", "確認する", "拒否する", "忘れる"],
+    "answer": "忘れる"
+  },
+  {
+    "question": "imagine",
+    "options": ["実現する", "想像する", "拒否する", "議論する"],
+    "answer": "想像する"
+  },
+  {
+    "question": "inform",
+    "options": ["隠す", "通知する", "無視する", "拒否する"],
+    "answer": "通知する"
+  },
+  {
+    "question": "invite",
+    "options": ["拒否する", "招待する", "無視する", "隠す"],
+    "answer": "招待する"
+  },
+  {
+    "question": "offer",
+    "options": ["提供する", "断る", "妨げる", "拒否する"],
+    "answer": "提供する"
+  },
+  {
+    "question": "promise",
+    "options": ["約束する", "妨げる", "忘れる", "拒否する"],
+    "answer": "約束する"
+  },
+  {
+    "question": "receive",
+    "options": ["返す", "渡す", "受け取る", "拒否する"],
+    "answer": "受け取る"
+  },
+  {
+    "question": "reject",
+    "options": ["受け入れる", "拒否する", "考慮する", "確認する"],
+    "answer": "拒否する"
+  },
+  {
+    "question": "respond",
+    "options": ["確認する", "無視する", "返答する", "拒否する"],
+    "answer": "返答する"
+  },
+  {
+    "question": "suggest",
+    "options": ["無視する", "提案する", "拒否する", "妨げる"],
+    "answer": "提案する"
+  },
+  {
+    "question": "trust",
+    "options": ["信頼する", "疑う", "拒否する", "妨げる"],
+    "answer": "信頼する"
+  },
+  {
+    "question": "understand",
+    "options": ["無視する", "理解する", "確認する", "拒否する"],
+    "answer": "理解する"
+  },
+  {
+    "question": "wish",
+    "options": ["願う", "確認する", "忘れる", "拒否する"],
+    "answer": "願う"
+  },
+  {
+    "question": "handle",
+    "options": ["避ける", "扱う", "防ぐ", "隠す"],
+    "answer": "扱う"
+  },
+  {
+    "question": "identify",
+    "options": ["削除する", "認識する", "逃げる", "忘れる"],
+    "answer": "認識する"
+  },
+  {
+    "question": "ignore",
+    "options": ["防ぐ", "無視する", "作る", "決める"],
+    "answer": "無視する"
+  },
+  {
+    "question": "imagine",
+    "options": ["期待する", "考慮する", "想像する", "届ける"],
+    "answer": "想像する"
+  },
+  {
+    "question": "improve",
+    "options": ["悪化させる", "拒否する", "改善する", "避ける"],
+    "answer": "改善する"
+  },
+  {
+    "question": "include",
+    "options": ["逃げる", "含む", "壊す", "削除する"],
+    "answer": "含む"
+  },
+  {
+    "question": "increase",
+    "options": ["防ぐ", "増やす", "隠す", "避ける"],
+    "answer": "増やす"
+  },
+  {
+    "question": "inform",
+    "options": ["知らせる", "忘れる", "管理する", "拒否する"],
+    "answer": "知らせる"
+  },
+  {
+    "question": "insist",
+    "options": ["説明する", "主張する", "防ぐ", "減らす"],
+    "answer": "主張する"
+  },
+  {
+    "question": "introduce",
+    "options": ["導入する", "隠す", "削除する", "無視する"],
+    "answer": "導入する"
+  },
+  {
+    "question": "involve",
+    "options": ["壊す", "関与させる", "防ぐ", "届ける"],
+    "answer": "関与させる"
+  },
+  {
+    "question": "judge",
+    "options": ["判断する", "削除する", "忘れる", "避ける"],
+    "answer": "判断する"
+  },
+  {
+    "question": "lend",
+    "options": ["貸す", "逃げる", "減らす", "管理する"],
+    "answer": "貸す"
+  },
+  {
+    "question": "mention",
+    "options": ["言及する", "否定する", "隠す", "防ぐ"],
+    "answer": "言及する"
+  },
+  {
+    "question": "notice",
+    "options": ["防ぐ", "気づく", "削除する", "壊す"],
+    "answer": "気づく"
+  },
+  {
+    "question": "offer",
+    "options": ["提供する", "否定する", "管理する", "逃げる"],
+    "answer": "提供する"
+  },
+  {
+    "question": "organize",
+    "options": ["整理する", "防ぐ", "避ける", "拒否する"],
+    "answer": "整理する"
+  },
+  {
+    "question": "perform",
+    "options": ["行う", "削除する", "逃げる", "管理する"],
+    "answer": "行う"
+  },
+  {
+    "question": "persuade",
+    "options": ["説得する", "忘れる", "防ぐ", "避ける"],
+    "answer": "説得する"
+  },
+  {
+    "question": "prepare",
+    "options": ["準備する", "隠す", "削除する", "壊す"],
+    "answer": "準備する"
+  },
+  {
+    "question": "recommend",
+    "options": ["拒否する", "削除する", "推薦する", "避ける"],
+    "answer": "推薦する"
+  },
+  {
+    "question": "reduce",
+    "options": ["逃げる", "減らす", "避ける", "増やす"],
+    "answer": "減らす"
+  },
+  {
+    "question": "refer",
+    "options": ["否定する", "防ぐ", "参照する", "削除する"],
+    "answer": "参照する"
+  },
+  {
+    "question": "reflect",
+    "options": ["整理する", "壊す", "逃げる", "反映する"],
+    "answer": "反映する"
+  },
+  {
+    "question": "refuse",
+    "options": ["拒否する", "考慮する", "管理する", "届ける"],
+    "answer": "拒否する"
+  },
+  {
+    "question": "regret",
+    "options": ["主張する", "防ぐ", "後悔する", "避ける"],
+    "answer": "後悔する"
+  },
+  {
+    "question": "relax",
+    "options": ["逃げる", "管理する", "リラックスする", "忘れる"],
+    "answer": "リラックスする"
+  },
+  {
+    "question": "release",
+    "options": ["防ぐ", "隠す", "解放する", "考慮する"],
+    "answer": "解放する"
+  },
+  {
+    "question": "rely",
+    "options": ["削除する", "頼る", "主張する", "防ぐ"],
+    "answer": "頼る"
+  },
+  {
+    "question": "remain",
+    "options": ["削除する", "整理する", "残る", "忘れる"],
+    "answer": "残る"
+  },
+  {
+    "question": "remind",
+    "options": ["避ける", "思い出させる", "逃げる", "届ける"],
+    "answer": "思い出させる"
+  },
+  {
+    "question": "remove",
+    "options": ["防ぐ", "削除する", "整理する", "考慮する"],
+    "answer": "削除する"
+  },
+  {
+    "question": "repair",
+    "options": ["削除する", "修理する", "避ける", "否定する"],
+    "answer": "修理する"
+  },
+  {
+    "question": "replace",
+    "options": ["交換する", "考慮する", "忘れる", "逃げる"],
+    "answer": "交換する"
+  },
+  {
+    "question": "reply",
+    "options": ["削除する", "否定する", "返信する", "避ける"],
+    "answer": "返信する"
+  },
+  {
+    "question": "require",
+    "options": ["整理する", "必要とする", "逃げる", "防ぐ"],
+    "answer": "必要とする"
+  },
+  {
+    "question": "reserve",
+    "options": ["削除する", "予約する", "防ぐ", "避ける"],
+    "answer": "予約する"
+  },
+  {
+    "question": "resist",
+    "options": ["防ぐ", "整理する", "抵抗する", "考慮する"],
+    "answer": "抵抗する"
+  },
+  {
+    "question": "resolve",
+    "options": ["逃げる", "解決する", "忘れる", "隠す"],
+    "answer": "解決する"
+  },
+  {
+    "question": "respond",
+    "options": ["削除する", "整理する", "防ぐ", "応答する"],
+    "answer": "応答する"
+  },
+  {
+    "question": "restrict",
+    "options": ["否定する", "制限する", "避ける", "考慮する"],
+    "answer": "制限する"
+  },
+  {
+    "question": "retain",
+    "options": ["整理する", "削除する", "逃げる", "保持する"],
+    "answer": "保持する"
+  },
+  {
+    "question": "reveal",
+    "options": ["明らかにする", "削除する", "防ぐ", "考慮する"],
+    "answer": "明らかにする"
+  },
+  {
+    "question": "revise",
+    "options": ["忘れる", "整理する", "否定する", "修正する"],
+    "answer": "修正する"
+  },
+  {
+    "question": "satisfy",
+    "options": ["削除する", "避ける", "逃げる", "満足させる"],
+    "answer": "満足させる"
+  },
+  {
+    "question": "select",
+    "options": ["防ぐ", "選択する", "整理する", "否定する"],
+    "answer": "選択する"
+  },
+  {
+    "question": "separate",
+    "options": ["分離する", "削除する", "考慮する", "忘れる"],
+    "answer": "分離する"
+  },
+  {
+    "question": "settle",
+    "options": ["逃げる", "整理する", "防ぐ", "解決する"],
+    "answer": "解決する"
+  },
+  {
+    "question": "solve",
+    "options": ["解決する", "避ける", "否定する", "考慮する"],
+    "answer": "解決する"
+  },
+  {
+    "question": "accomplish",
+    "options": ["達成する", "整理する", "避ける", "考慮する"],
+    "answer": "達成する"
+  },
+  {
+    "question": "adjust",
+    "options": ["整理する", "調整する", "逃げる", "削除する"],
+    "answer": "調整する"
+  },
+  {
+    "question": "anticipate",
+    "options": ["避ける", "予測する", "削除する", "制限する"],
+    "answer": "予測する"
+  },
+  {
+    "question": "assemble",
+    "options": ["隠す", "組み立てる", "防ぐ", "交換する"],
+    "answer": "組み立てる"
+  },
+  {
+    "question": "assess",
+    "options": ["考慮する", "否定する", "評価する", "忘れる"],
+    "answer": "評価する"
+  },
+  {
+    "question": "assign",
+    "options": ["割り当てる", "整理する", "管理する", "防ぐ"],
+    "answer": "割り当てる"
+  },
+  {
+    "question": "assume",
+    "options": ["推測する", "整理する", "削除する", "考慮する"],
+    "answer": "推測する"
+  },
+  {
+    "question": "attain",
+    "options": ["逃げる", "達成する", "交換する", "否定する"],
+    "answer": "達成する"
+  },
+  {
+    "question": "authorize",
+    "options": ["許可する", "防ぐ", "忘れる", "整理する"],
+    "answer": "許可する"
+  },
+  {
+    "question": "clarify",
+    "options": ["整理する", "明確にする", "削除する", "防ぐ"],
+    "answer": "明確にする"
+  },
+  {
+    "question": "collaborate",
+    "options": ["隠す", "協力する", "考慮する", "逃げる"],
+    "answer": "協力する"
+  },
+  {
+    "question": "compile",
+    "options": ["削除する", "編集する", "否定する", "避ける"],
+    "answer": "編集する"
+  },
+  {
+    "question": "comply",
+    "options": ["考慮する", "防ぐ", "従う", "否定する"],
+    "answer": "従う"
+  },
+
+  {
+    "question": "confirm",
+    "options": ["避ける", "確認する", "否定する", "削除する"],
+    "answer": "確認する"
+  },
+  {
+    "question": "consist",
+    "options": ["考慮する", "成り立つ", "管理する", "防ぐ"],
+    "answer": "成り立つ"
+  },
+  {
+    "question": "contribute",
+    "options": ["削除する", "貢献する", "逃げる", "避ける"],
+    "answer": "貢献する"
+  },
+  {
+    "question": "convince",
+    "options": ["説得する", "削除する", "管理する", "防ぐ"],
+    "answer": "説得する"
+  },
+  {
+    "question": "coordinate",
+    "options": ["整理する", "調整する", "否定する", "逃げる"],
+    "answer": "調整する"
+  },
+  {
+    "question": "correspond",
+    "options": ["対応する", "削除する", "考慮する", "防ぐ"],
+    "answer": "対応する"
+  },
+  {
+    "question": "delegate",
+    "options": ["逃げる", "削除する", "委任する", "避ける"],
+    "answer": "委任する"
+  },
+  {
+    "question": "demonstrate",
+    "options": ["示す", "否定する", "防ぐ", "管理する"],
+    "answer": "示す"
+  },
+  {
+    "question": "distribute",
+    "options": ["整理する", "配布する", "削除する", "考慮する"],
+    "answer": "配布する"
+  },
+  {
+    "question": "eliminate",
+    "options": ["削除する", "防ぐ", "逃げる", "避ける"],
+    "answer": "削除する"
+  },
+  {
+    "question": "emphasize",
+    "options": ["強調する", "整理する", "否定する", "管理する"],
+    "answer": "強調する"
+  },
+  {
+    "question": "enhance",
+    "options": ["考慮する", "向上させる", "削除する", "防ぐ"],
+    "answer": "向上させる"
+  },
+  {
+    "question": "evaluate",
+    "options": ["整理する", "評価する", "避ける", "考慮する"],
+    "answer": "評価する"
+  },
+  {
+    "question": "execute",
+    "options": ["管理する", "逃げる", "実行する", "削除する"],
+    "answer": "実行する"
+  },
+  {
+    "question": "facilitate",
+    "options": ["整理する", "容易にする", "防ぐ", "考慮する"],
+    "answer": "容易にする"
+  },
+  {
+    "question": "formulate",
+    "options": ["避ける", "否定する", "考案する", "削除する"],
+    "answer": "考案する"
+  },
+  {
+    "question": "illustrate",
+    "options": ["管理する", "示す", "防ぐ", "考慮する"],
+    "answer": "示す"
+  },
+  {
+    "question": "implement",
+    "options": ["削除する", "避ける", "実施する", "否定する"],
+    "answer": "実施する"
+  },
+  {
+    "question": "adapt",
+    "options": ["適応する", "受ける", "選ぶ", "拒否する"],
+    "answer": "適応する"
+  },
+  {
+    "question": "anticipate",
+    "options": ["予測する", "避ける", "適応する", "失う"],
+    "answer": "予測する"
+  },
+  {
+    "question": "assert",
+    "options": ["主張する", "避ける", "結ぶ", "与える"],
+    "answer": "主張する"
+  },
+  {
+    "question": "benefit",
+    "options": ["奪う", "選択する", "利益を得る", "試す"],
+    "answer": "利益を得る"
+  },
+  {
+    "question": "blame",
+    "options": ["責める", "許す", "受ける", "伝える"],
+    "answer": "責める"
+  },
+  {
+    "question": "calculate",
+    "options": ["変更する", "準備する", "計算する", "整える"],
+    "answer": "計算する"
+  },
+  {
+    "question": "clarify",
+    "options": ["明確にする", "改善する", "避ける", "選択する"],
+    "answer": "明確にする"
+  },
+  {
+    "question": "conclude",
+    "options": ["伝える", "確認する", "結論を出す", "受け入れる"],
+    "answer": "結論を出す"
+  },
+  {
+    "question": "confirm",
+    "options": ["調整する", "作成する", "拒否する", "確認する"],
+    "answer": "確認する"
+  },
+  {
+    "question": "consider",
+    "options": ["考慮する", "整理する", "伝える", "準備する"],
+    "answer": "考慮する"
+  },
+  {
+    "question": "convince",
+    "options": ["説得する", "要求する", "整理する", "報告する"],
+    "answer": "説得する"
+  },
+  {
+    "question": "create",
+    "options": ["選択する", "調整する", "評価する", "作成する"],
+    "answer": "作成する"
+  },
+  {
+    "question": "declare",
+    "options": ["宣言する", "変更する", "待つ", "逃げる"],
+    "answer": "宣言する"
+  },
+  {
+    "question": "defend",
+    "options": ["守る", "反応する", "避ける", "閉じる"],
+    "answer": "守る"
+  },
+  {
+    "question": "deny",
+    "options": ["否定する", "勧める", "逃げる", "拒否する"],
+    "answer": "否定する"
+  },
+  {
+    "question": "detect",
+    "options": ["促進する", "整理する", "立ち上げる", "検出する"],
+    "answer": "検出する"
+  },
+  {
+    "question": "distinguish",
+    "options": ["区別する", "参加する", "修正する", "調整する"],
+    "answer": "区別する"
+  },
+  {
+    "question": "enforce",
+    "options": ["達成する", "通知する", "強制する", "運ぶ"],
+    "answer": "強制する"
+  },
+  {
+    "question": "enhance",
+    "options": ["強化する", "選択する", "報告する", "試す"],
+    "answer": "強化する"
+  },
+  {
+    "question": "expand",
+    "options": ["減らす", "変更する", "防ぐ", "拡大する"],
+    "answer": "拡大する"
+  },
+  {
+    "question": "explain",
+    "options": ["説明する", "送る", "尋ねる", "学ぶ"],
+    "answer": "説明する"
+  },
+  {
+    "question": "explore",
+    "options": ["決定する", "修正する", "確認する", "探求する"],
+    "answer": "探求する"
+  },
+  {
+    "question": "extract",
+    "options": ["選択する", "作成する", "抽出する", "変化する"],
+    "answer": "抽出する"
+  },
+  {
+    "question": "follow",
+    "options": ["理解する", "避ける", "停止する", "従う"],
+    "answer": "従う"
+  },
+  {
+    "question": "fulfill",
+    "options": ["要求する", "修正する", "準備する", "満たす"],
+    "answer": "満たす"
+  },
+  {
+    "question": "gather",
+    "options": ["修正する", "選ぶ", "保存する", "集める"],
+    "answer": "集める"
+  },
+  {
+    "question": "handle",
+    "options": ["停止する", "運転する", "進める", "取り扱う"],
+    "answer": "取り扱う"
+  },
+  {
+    "question": "hesitate",
+    "options": ["決定する", "選ぶ", "準備する", "ためらう"],
+    "answer": "ためらう"
+  },
+  {
+    "question": "implement",
+    "options": ["拡大する", "伝える", "変化する", "実行する"],
+    "answer": "実行する"
+  },
+  {
+    "question": "improve",
+    "options": ["作成する", "学ぶ", "探す", "改善する"],
+    "answer": "改善する"
+  },
+  {
+    "question": "indicate",
+    "options": ["評価する", "探す", "準備する", "示す"],
+    "answer": "示す"
+  },
+  {
+    "question": "inquire",
+    "options": ["作成する", "避ける", "尋ねる", "伝える"],
+    "answer": "尋ねる"
+  },
+  {
+    "question": "insist",
+    "options": ["変更する", "理解する", "勧める", "主張する"],
+    "answer": "主張する"
+  },
+  {
+    "question": "instruct",
+    "options": ["解決する", "選ぶ", "修正する", "指示する"],
+    "answer": "指示する"
+  },
+  {
+    "question": "intervene",
+    "options": ["伝える", "開発する", "修正する", "介入する"],
+    "answer": "介入する"
+  },
+  {
+    "question": "investigate",
+    "options": ["伝える", "達成する", "受け入れる", "調査する"],
+    "answer": "調査する"
+  },
+  {
+    "question": "maintain",
+    "options": ["確認する", "返す", "確認する", "維持する"],
+    "answer": "維持する"
+  },
+  {
+    "question": "negotiate",
+    "options": ["測定する", "整理する", "交渉する", "減らす"],
+    "answer": "交渉する"
+  },
+  {
+    "question": "observe",
+    "options": ["選択する", "修正する", "変更する", "観察する"],
+    "answer": "観察する"
+  },
+  {
+    "question": "participate",
+    "options": ["修正する", "拡大する", "進める", "参加する"],
+    "answer": "参加する"
+  },
+  {
+    "question": "perceive",
+    "options": ["減らす", "増やす", "修正する", "認識する"],
+    "answer": "認識する"
+  },
+  {
+    "question": "perform",
+    "options": ["実行する", "続ける", "選ぶ", "停止する"],
+    "answer": "実行する"
+  },
+  {
+    "question": "persuade",
+    "options": ["与える", "調整する", "避ける", "説得する"],
+    "answer": "説得する"
+  },
+  {
+    "question": "prevent",
+    "options": ["実行する", "達成する", "発表する", "防ぐ"],
+    "answer": "防ぐ"
+  },
+  {
+    "question": "produce",
+    "options": ["探す", "閉じる", "選ぶ", "生産する"],
+    "answer": "生産する"
+  },
+  {
+    "question": "promote",
+    "options": ["増やす", "選ぶ", "避ける", "促進する"],
+    "answer": "促進する"
+  },
+  {
+    "question": "refuse",
+    "options": ["伝える", "解決する", "計算する", "拒否する"],
+    "answer": "拒否する"
+  },
+  {
+    "question": "resolve",
+    "options": ["維持する", "変更する", "届ける", "解決する"],
+    "answer": "解決する"
+  },
+  {
+    "question": "respond",
+    "options": ["更新する", "修正する", "立ち上げる", "応答する"],
+    "answer": "応答する"
+  },
+  {
+    "question": "restore",
+    "options": ["避ける", "達成する", "準備する", "回復する"],
+    "answer": "回復する"
+  },
+  {
+    "question": "revise",
+    "options": ["変更する", "調整する", "修正する", "準備する"],
+    "answer": "修正する"
+  },
+  {
+    "question": "satisfy",
+    "options": ["探す", "決定する", "拒否する", "満足させる"],
+    "answer": "満足させる"
+  },
+  {
+    "question": "abandon",
+    "options": ["提供する", "放棄する", "確認する", "支払う"],
+    "answer": "放棄する"
+  },
+  {
+    "question": "accept",
+    "options": ["送る", "受け入れる", "書く", "拒否する"],
+    "answer": "受け入れる"
+  },
+  {
+    "question": "acquire",
+    "options": ["解決する", "隠す", "取得する", "減少する"],
+    "answer": "取得する"
+  },
+
+  {
+    "question": "arrange",
+    "options": ["収集する", "発表する", "整理する", "送る"],
+    "answer": "整理する"
+  },
+  {
+    "question": "arrive",
+    "options": ["変更する", "到着する", "去る", "開始する"],
+    "answer": "到着する"
+  },
+  {
+    "question": "assess",
+    "options": ["準備する", "試す", "評価する", "保存する"],
+    "answer": "評価する"
+  },
+  {
+    "question": "attend",
+    "options": ["出席する", "準備する", "選ぶ", "見逃す"],
+    "answer": "出席する"
+  },
+  {
+    "question": "attract",
+    "options": ["疑う", "引き付ける", "変える", "送る"],
+    "answer": "引き付ける"
+  },
+  {
+    "question": "avoid",
+    "options": ["強制する", "変化する", "避ける", "迎える"],
+    "answer": "避ける"
+  },
+  {
+    "question": "believe",
+    "options": ["信じる", "発見する", "疑う", "起こす"],
+    "answer": "信じる"
+  },
+  {
+    "question": "borrow",
+    "options": ["準備する", "作る", "借りる", "返す"],
+    "answer": "借りる"
+  },
+  {
+    "question": "choose",
+    "options": ["確認する", "集める", "選ぶ", "要求する"],
+    "answer": "選ぶ"
+  },
+  {
+    "question": "collect",
+    "options": ["集める", "解放する", "提案する", "交換する"],
+    "answer": "集める"
+  },
+  {
+    "question": "compare",
+    "options": ["比較する", "変更する", "拒否する", "書く"],
+    "answer": "比較する"
+  },
+  {
+    "question": "complete",
+    "options": ["修正する", "遅らせる", "解決する", "完成する"],
+    "answer": "完成する"
+  },
+  {
+    "question": "confirm",
+    "options": ["変更する", "確認する", "要求する", "追加する"],
+    "answer": "確認する"
+  },
+  {
+    "question": "connect",
+    "options": ["選択する", "失敗する", "接続する", "分離する"],
+    "answer": "接続する"
+  },
+  {
+    "question": "create",
+    "options": ["作成する", "変更する", "確認する", "解決する"],
+    "answer": "作成する"
+  },
+  {
+    "question": "decide",
+    "options": ["確認する", "決定する", "要求する", "放棄する"],
+    "answer": "決定する"
+  },
+  {
+    "question": "define",
+    "options": ["定義する", "変更する", "試す", "決定する"],
+    "answer": "定義する"
+  },
+  {
+    "question": "deny",
+    "options": ["否定する", "認める", "強調する", "尋ねる"],
+    "answer": "否定する"
+  },
+  {
+    "question": "describe",
+    "options": ["変える", "説明する", "準備する", "追加する"],
+    "answer": "説明する"
+  },
+  {
+    "question": "determine",
+    "options": ["決定する", "修正する", "分析する", "変更する"],
+    "answer": "決定する"
+  },
+  {
+    "question": "develop",
+    "options": ["開発する", "保存する", "挑戦する", "否定する"],
+    "answer": "開発する"
+  },
+  {
+    "question": "discuss",
+    "options": ["議論する", "強調する", "定義する", "決定する"],
+    "answer": "議論する"
+  },
+  {
+    "question": "doubt",
+    "options": ["確認する", "疑う", "作成する", "答える"],
+    "answer": "疑う"
+  },
+  {
+    "question": "encourage",
+    "options": ["奨励する", "拒否する", "注意する", "困る"],
+    "answer": "奨励する"
+  },
+  {
+    "question": "enforce",
+    "options": ["選択する", "強制する", "確認する", "解決する"],
+    "answer": "強制する"
+  },
+  {
+    "question": "enjoy",
+    "options": ["変更する", "楽しむ", "要求する", "拒否する"],
+    "answer": "楽しむ"
+  },
+  {
+    "question": "examine",
+    "options": ["調べる", "書く", "確認する", "選択する"],
+    "answer": "調べる"
+  },
+  {
+    "question": "expect",
+    "options": ["変更する", "予測する", "期待する", "分析する"],
+    "answer": "期待する"
+  },
+  {
+    "question": "expect",
+    "options": ["変更する", "予測する", "期待する", "分析する"],
+    "answer": "期待する"
+  },
+  {
+    "question": "expect",
+    "options": ["変更する", "予測する", "期待する", "分析する"],
+    "answer": "期待する"
+  },
+  {
+    "question": "explain",
+    "options": ["選ぶ", "説明する", "確認する", "拒否する"],
+    "answer": "説明する"
+  },
+  {
+    "question": "explore",
+    "options": ["拒否する", "探索する", "変更する", "決定する"],
+    "answer": "探索する"
+  },
+
+  {
+    "question": "forget",
+    "options": ["整理する", "書く", "忘れる", "確認する"],
+    "answer": "忘れる"
+  },
+  {
+    "question": "gain",
+    "options": ["得る", "整理する", "失う", "疑う"],
+    "answer": "得る"
+  },
+  {
+    "question": "give",
+    "options": ["保存する", "与える", "取る", "確認する"],
+    "answer": "与える"
+  },
+  {
+    "question": "handle",
+    "options": ["拒否する", "提案する", "変更する", "扱う"],
+    "answer": "扱う"
+  },
+  {
+    "question": "identify",
+    "options": ["識別する", "解決する", "要求する", "変更する"],
+    "answer": "識別する"
+  },
+  {
+    "question": "increase",
+    "options": ["増加する", "決定する", "整理する", "減少する"],
+    "answer": "増加する"
+  },
+  {
+    "question": "inform",
+    "options": ["無視する", "選ぶ", "確認する", "知らせる"],
+    "answer": "知らせる"
+  },
+  {
+    "question": "inspire",
+    "options": ["触発する", "解決する", "進む", "拒否する"],
+    "answer": "触発する"
+  }
+
+]
