@@ -6,7 +6,6 @@ export default function QuizApp() {
   const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
-  const [isCorrect, setIsCorrect] = useState(null);
   const [incorrectWords, setIncorrectWords] = useState([]);
   const [quizFinished, setQuizFinished] = useState(false);
 
