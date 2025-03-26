@@ -1,0 +1,57 @@
+[debug] [2025-03-24T14:36:49.837Z] ----------------------------------------------------------------------
+[debug] [2025-03-24T14:36:49.840Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\urase\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2025-03-24T14:36:49.840Z] CLI Version:   13.35.1
+[debug] [2025-03-24T14:36:49.841Z] Platform:      win32
+[debug] [2025-03-24T14:36:49.841Z] Node Version:  v22.14.0
+[debug] [2025-03-24T14:36:49.841Z] Time:          Mon Mar 24 2025 23:36:49 GMT+0900 (日本標準時)
+[debug] [2025-03-24T14:36:49.841Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-03-24T14:36:50.079Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-03-24T14:36:50.079Z] > authorizing via signed-in user (urase0907@gmail.com)
+[debug] [2025-03-24T14:36:50.080Z] [iam] checking project english-app-49cb4 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2025-03-24T14:36:50.081Z] Checked if tokens are valid: true, expires at: 1742828627124
+[debug] [2025-03-24T14:36:50.081Z] Checked if tokens are valid: true, expires at: 1742828627124
+[debug] [2025-03-24T14:36:50.082Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/english-app-49cb4:testIamPermissions [none]
+[debug] [2025-03-24T14:36:50.082Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/english-app-49cb4:testIamPermissions x-goog-quota-user=projects/english-app-49cb4
+[debug] [2025-03-24T14:36:50.082Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/english-app-49cb4:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2025-03-24T14:36:50.994Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/english-app-49cb4:testIamPermissions 200
+[debug] [2025-03-24T14:36:50.995Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/english-app-49cb4:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2025-03-24T14:36:50.995Z] Checked if tokens are valid: true, expires at: 1742828627124
+[debug] [2025-03-24T14:36:50.996Z] Checked if tokens are valid: true, expires at: 1742828627124
+[debug] [2025-03-24T14:36:50.996Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/english-app-49cb4 [none]
+[debug] [2025-03-24T14:36:51.494Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/english-app-49cb4 200
+[debug] [2025-03-24T14:36:51.494Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/english-app-49cb4 {"projectId":"english-app-49cb4","projectNumber":"609230288228","displayName":"english-app","name":"projects/english-app-49cb4","resources":{"hostingSite":"english-app-49cb4"},"state":"ACTIVE","etag":"1_b0c6d886-5000-4228-a339-f253a6d7c037"}
+[info] 
+   Thank you for trying our early preview of Next.js support on Firebase Hosting.
+   During the preview, support is best-effort and breaking changes can be expected. Proceed with caution.
+   The integration is known to work with Next.js version 12 - 15.0. You may encounter errors.
+
+   Documentation: https://firebase.google.com/docs/hosting/frameworks/nextjs
+   File a bug: https://github.com/firebase/firebase-tools/issues/new?template=bug_report.md
+   Submit a feature request: https://github.com/firebase/firebase-tools/issues/new?template=feature_request.md
+
+   We'd love to learn from you. Express your interest in helping us shape the future of Firebase Hosting: https://goo.gle/41enW5X
+
+[debug] [2025-03-24T14:37:03.755Z] Checked if tokens are valid: true, expires at: 1742828627124
+[debug] [2025-03-24T14:37:03.756Z] Checked if tokens are valid: true, expires at: 1742828627124
+[debug] [2025-03-24T14:37:03.756Z] >>> [apiv2][query] GET https://firebasehosting.googleapis.com/v1beta1/projects/english-app-49cb4/sites/english-app-49cb4 [none]
+[debug] [2025-03-24T14:37:04.496Z] <<< [apiv2][status] GET https://firebasehosting.googleapis.com/v1beta1/projects/english-app-49cb4/sites/english-app-49cb4 200
+[debug] [2025-03-24T14:37:04.496Z] <<< [apiv2][body] GET https://firebasehosting.googleapis.com/v1beta1/projects/english-app-49cb4/sites/english-app-49cb4 {"name":"projects/english-app-49cb4/sites/english-app-49cb4","defaultUrl":"https://english-app-49cb4.web.app","type":"DEFAULT_SITE"}
+[info]    ▲ Next.js 15.2.3
+
+[info] 
+
+[info] 
+
+[info] > Build error occurred
+
+[info] [Error: EINVAL: invalid argument, readlink 'C:\Users\urase\OneDrive\Desktop\AI-eitango next.js\english-app\.next\server\interception-route-rewrite-manifest.js'] {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'readlink',
+  path: 'C:\\Users\\urase\\OneDrive\\Desktop\\AI-eitango next.js\\english-app\\.next\\server\\interception-route-rewrite-manifest.js'
+}
+
+[debug] [2025-03-24T14:37:06.985Z] Error: ENOENT: no such file or directory, open 'C:\Users\urase\OneDrive\Desktop\AI-eitango next.js\english-app\.next\server\middleware-manifest.json'
+[error] 
+[error] Error: An unexpected error has occurred.
