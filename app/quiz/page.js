@@ -22,8 +22,8 @@ export default function QuizApp() {
 
   const handleAnswerClick = (option) => {
     setSelectedAnswer(option);
-    setIsCorrect(option === questions[currentQuestion].answer);
 
+    // Check if the answer is correct and update incorrect words if necessary
     if (option !== questions[currentQuestion].answer) {
       setIncorrectWords((prevIncorrectWords) => [
         ...prevIncorrectWords,
@@ -33,14 +33,13 @@ export default function QuizApp() {
 
     setTimeout(() => {
       moveToNextQuestion();
-    }, 1500) // 次の質問に進むまで1.5秒遅延
+    }, 1500); // 1.5秒遅延して次の質問へ
   };
 
   const moveToNextQuestion = () => {
     if (currentQuestion + 1 < questions.length) {
       setCurrentQuestion(currentQuestion + 1);
       setSelectedAnswer(null);
-      setIsCorrect(null);
     } else {
       setQuizFinished(true);
     }
@@ -79,9 +78,7 @@ export default function QuizApp() {
 
   return (
     <div
-      className={`min-h-screen flex flex-col items-center ${
-        !quizFinished ? "bg-cover bg-center" : "bg-gray-100"
-      }`}
+      className={`min-h-screen flex flex-col items-center ${!quizFinished ? "bg-cover bg-center" : "bg-gray-100"}`}
       style={{
         backgroundImage:
           !quizFinished && questions.length > 0 ? "url('/image/classroom.jpg')" : "",
@@ -147,9 +144,7 @@ export default function QuizApp() {
                   ))}
                 </div>
               </div>
-            
             </div>
-            
           )}
 
           {/* 画像とセリフ */}
